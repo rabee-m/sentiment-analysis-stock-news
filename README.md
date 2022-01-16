@@ -11,13 +11,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/
+* [Pandas](https://pandas.pydata.org/)
+* [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+* [Matplotlib](https://matplotlib.org/)
+* [yfinance](https://pypi.org/project/yfinance/)
+* [nltk](https://www.nltk.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
