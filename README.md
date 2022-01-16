@@ -1,12 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+This project parses data from a stock news website, "https://finviz.com/" using BeautifulSoup. Then performing sentiment analysis on news headlines regarding stocks for 'TSLA', 'AAPL', 'FB', using nltk.vader and visualizing the data with matplotlib and pandas. This data is then plotted against stock prices retrieved from yfinance, and compares whether news headlines had a impact on the ticker price of the analyzed stocks.
 
 
 ### Built With
