@@ -11,7 +11,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Python](https://www.python.org/
+* [Python](https://www.python.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 * [Matplotlib](https://matplotlib.org/)
