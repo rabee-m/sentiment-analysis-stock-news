@@ -1,7 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project parses data from a stock news website, "https://finviz.com/" using BeautifulSoup. It then performs sentiment analysis on news headlines regarding stocks for 'TSLA', 'AAPL', 'FB', using nltk.vader and visualizing the data with matplotlib and pandas. This data is then plotted against stock prices retrieved from yfinance, and compares whether news headlines had a impact on the ticker price of the analyzed stocks.
-
+This project parses data from a stock news website, "https://finviz.com/" using BeautifulSoup. It then performs sentiment analysis on news headlines regarding stocks for 'TSLA', 'AAPL', 'FB', using nltk.vader and visualizing the data with matplotlib and pandas. This data is then plotted against stock prices retrieved from yfinance, and compares whether news headlines had a impact on the ticker price of the analyzed stocks. <br /> Inspiration from [Youtube](https://www.youtube.com/watch?v=o-zM8onpQZY&ab_channel=TheCodex)
 
 ### Built With
 
